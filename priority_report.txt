@@ -1,0 +1,14 @@
+Priority Classification
+
+Accuracy : 0.2556
+
+              precision    recall  f1-score   support
+
+    Critical       0.25      0.27      0.26       411
+        High       0.25      0.26      0.26       409
+         Low       0.24      0.22      0.23       415
+      Medium       0.27      0.27      0.27       459
+
+    accuracy                           0.26      1694
+   macro avg       0.25      0.26      0.25      1694
+weighted avg       0.26      0.26      0.26      1694
