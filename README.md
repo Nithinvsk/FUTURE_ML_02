@@ -244,7 +244,7 @@ Support-Ticket-Classification/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Support-Ticket-Classification.git
+git clone https://github.com/nithin.vsk/FUTURE_ML-02.git
 ```
 
 Move into the project
